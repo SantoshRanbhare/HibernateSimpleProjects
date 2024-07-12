@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container {
+        max-width: 600px;
+        margin: 100px auto;
+        text-align: center;
+        border: 2px solid black;
+    }
+    
+    .container h1 {
+        color: #333;
+        margin-bottom: 40px;
+    }
+    
+    .menu {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu h1 {
+        margin: 0 20px;
+    }
+    
+    .menu h1 a {
+        text-decoration: none;
+        color: #333;
+        transition: color 0.3s ease;
+    }
+    
+    .menu h1 a:hover {
+        color: #007bff;
+    }

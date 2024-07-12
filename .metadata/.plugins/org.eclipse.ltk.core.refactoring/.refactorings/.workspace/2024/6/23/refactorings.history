@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HibernateProject_CompanyDb&apos; to &apos;HibernateProject_OneToMany&apos;" description="Rename resource &apos;HibernateProject_CompanyDb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HibernateProject_CompanyDb" name="HibernateProject_OneToMany" stamp="1717487141885" updateReferences="true"/>
+</session>

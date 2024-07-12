@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\santosh\Advance Java\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1093396789.index
+\HibernateProject_MobileManagementSystem\src\main\resources
+D:\santosh\Advance Java\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\715153663.index
+\HibernateProject_LoginAndRegister\src\main\resources
